@@ -1,3 +1,5 @@
 .gradle/
 build/
-kotlintemplate.iws
+*.iml
+*.ipr
+*.iws
